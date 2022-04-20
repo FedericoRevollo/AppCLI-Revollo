@@ -1,0 +1,21 @@
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    justify-content: center;
+    background-color: rgba(196, 255, 213, 0.574);
+    color: rgb(165, 151, 42);
+}
+
+.nav a {
+    padding: 30px;
+    text-decoration: none;
+    color: rgb(44, 100, 179);
+
+}
+
+.nav a:hover {
+    color: blue;
+    font-weight: bolder;
+}
